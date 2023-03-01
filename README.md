@@ -135,7 +135,7 @@ bool = isFloat64Array( null );
 
 ## See Also
 
--   <span class="package-name">[`@stdlib/assert/is-float32array`][@stdlib/assert/is-float32array]</span><span class="delimiter">: </span><span class="description">test if a value is a Float32Array.</span>
+-   <span class="package-name">[`@stdlib/assert-is-float32array`][@stdlib/assert/is-float32array]</span><span class="delimiter">: </span><span class="description">test if a value is a Float32Array.</span>
 
 </section>
 
