@@ -126,7 +126,7 @@ bool = isFloat64Array( new Uint32Array( 10 ) );
 bool = isFloat64Array( new Float32Array( 10 ) );
 // returns false
 
-bool = isFloat64Array( new Array( 10 ) );
+bool = isFloat64Array( [] );
 // returns false
 
 bool = isFloat64Array( {} );
